@@ -21,7 +21,6 @@ DON'T HURM GOVERNMENT, EDUCATION, AND HOSPITAL WEBSITE <3
 
 Install my-project with python3
 
-Clone the project
 
 ```bash
   sudo apt install python3 -y

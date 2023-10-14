@@ -21,10 +21,12 @@ DON'T HURM GOVERNMENT, EDUCATION, AND HOSPITAL WEBSITE <3
 
 Install my-project with python3
 
+1st Run This Command
 
 ```bash
   sudo apt install python3 -y
 ```
+Clone the project
 
 ```bash
   git clone https://github.com/AN0N9M0US/DD05-P4N3L.git

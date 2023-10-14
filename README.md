@@ -1,5 +1,6 @@
+
 # DD05-P4N3L
-🌿 "BAYEZID" POWERFULL DDOS PANEL COMMAND USE ONLY CLOUDSHELL...  
+🌿 "BAYEZID" POWERFULL DDOS PANEL COMMAND USE ONLY [CLOUDSHELL>>>]( https://shell.cloud.google.com/ )  👈Click.
 
 ONE OF THE MOST POWERFULL DD05-P4N3L :)  
 DON'T HURM GOVERNMENT, EDUCATION, AND HOSPITAL WEBSITE <3
@@ -21,6 +22,10 @@ DON'T HURM GOVERNMENT, EDUCATION, AND HOSPITAL WEBSITE <3
 Install my-project with python3
 
 Clone the project
+
+```bash
+  sudo apt install python3 -y
+```
 
 ```bash
   git clone https://github.com/AN0N9M0US/DD05-P4N3L.git
@@ -57,3 +62,4 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ## Feedback
 
 If you have any feedback, please reach out to us at mr.anonymous404@yahoo.com
+
